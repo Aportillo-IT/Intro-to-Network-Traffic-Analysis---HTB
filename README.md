@@ -61,10 +61,16 @@ Task 3: Add verbosity to our output and displaying contents in ASCII and Hex:
 <p align="center">
 Task 4: Save a capture to a .PCAP file:
  <br/>
-<img src="" height="80%" width="80%" alt="Capturing with Tcpdump"/>
+<img src="https://i.imgur.com/LSWWUMq.png" height="80%" width="80%" alt="Capturing with Tcpdump"/>
 <br />
 <br />
 
+<p align="center">
+Task 4: Read a capture to a .PCAP file:
+ <br/>
+<img src="https://i.imgur.com/tkShgCY.png" height="80%" width="80%" alt="Capturing with Tcpdump"/>
+<br />
+<br />
 
 
 
